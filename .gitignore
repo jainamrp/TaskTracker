@@ -1,0 +1,71 @@
+# Build outputs
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ARM/
+ARM64/
+bld/
+[Bb]uild/
+[Aa]rtifacts/
+
+# Visual Studio and editor state
+.vs/
+.vscode/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Test and coverage output
+TestResults/
+coverage/
+coverage.*/
+*.coverage
+*.coveragexml
+*.trx
+*.vsp
+*.vspx
+*.vspscc
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# ASP.NET / .NET local configuration
+appsettings.Local.json
+appsettings.*.Local.json
+*.Development.json.user
+
+# Local databases and runtime files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.bak
+*.orig

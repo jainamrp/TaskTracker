@@ -7,6 +7,7 @@ using TaskTracker.Api.Repositories.Implementations;
 using TaskTracker.Api.Repositories.Interfaces;
 using TaskTracker.Api.Services.Implementations;
 using TaskTracker.Api.Services.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args); // Initializes the web
                                                   // application builder with command-line arguments.
 
